@@ -1,4 +1,4 @@
 🤙 Hi :D
 
-🌈 I'm vqlion, student at INSA Lyon in France 
+🌈 I'm an engineering student at INSA Lyon (TC)
 
