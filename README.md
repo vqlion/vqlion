@@ -2,4 +2,4 @@
 
 🌈 I'm an engineering student at INSA Lyon (TC)
 
-✨ You can find everything related to me just here https://vqlion.me
+✨ You can find everything related to me here https://vqlion.me
