@@ -1,5 +1,5 @@
-👋 Hi 
+# Hi, my name is Val ! 👋
 
-🍭 I'm Val, I study at INSA Lyon (3TC)
+📖 I study computer science and telecommunications at [INSA Lyon](https://insa-lyon.fr)
 
-✨ You can find everything related to me [here](https://vqlion.me)
+💻 I work on a lot of projects at once and sometimes I sleep
