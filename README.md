@@ -2,8 +2,8 @@
 
 📖 I study **telecommunication** and **computer science** at [INSA Lyon](https://insa-lyon.fr)
 
-💻 Right now I'm a **full-stack dev intern** at [Framasoft](https://framasoft.org)
+💻 I worked on projects with [Framasoft](https://framasoft.org), [ICRC](https://www.icrc.org), INSA Lyon, and for myself and my friends!
 
 ☝️ You can find more about me on [my website](https://vqlion.fr)
 
-🛠️ I build things for fun, for my friends and for **nonprofits**. **You can check some of my projects below!**
+🛠️ Check out some of my projects below!
